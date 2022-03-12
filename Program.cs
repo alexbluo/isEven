@@ -15,13 +15,14 @@
         await file.WriteLineAsync("        return true;");
         await file.WriteLineAsync("    }");
 
-        for (int i = Int32.MinValue + 1; i <= Int32.MinValue + 10; i++)
-        {
-            await file.WriteLineAsync("    else if (x == " + i + ")");
-            await file.WriteLineAsync("    {");
-            await file.WriteLineAsync("        return " + (i % 2 == 0).ToString().ToLower() + ";");
-            await file.WriteLineAsync("    }");
-        }
+        // makes your computer explode
+        // for (int i = Int32.MinValue + 1; i <= Int32.MinValue; i++)
+        // {
+        //     await file.WriteLineAsync("    else if (x == " + i + ")");
+        //     await file.WriteLineAsync("    {");
+        //     await file.WriteLineAsync("        return " + (i % 2 == 0).ToString().ToLower() + ";");
+        //     await file.WriteLineAsync("    }");
+        // }
 
         await file.WriteLineAsync("    return false;");
         await file.WriteLineAsync("}");
