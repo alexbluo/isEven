@@ -1,0 +1,15 @@
+C:\projects\cs\isEven\bin\Debug\net6.0\isEven.exe
+C:\projects\cs\isEven\bin\Debug\net6.0\isEven.deps.json
+C:\projects\cs\isEven\bin\Debug\net6.0\isEven.runtimeconfig.json
+C:\projects\cs\isEven\bin\Debug\net6.0\isEven.dll
+C:\projects\cs\isEven\bin\Debug\net6.0\isEven.pdb
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.csproj.AssemblyReference.cache
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.AssemblyInfoInputs.cache
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.AssemblyInfo.cs
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.csproj.CoreCompileInputs.cache
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.dll
+C:\projects\cs\isEven\obj\Debug\net6.0\refint\isEven.dll
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.pdb
+C:\projects\cs\isEven\obj\Debug\net6.0\isEven.genruntimeconfig.cache
+C:\projects\cs\isEven\obj\Debug\net6.0\ref\isEven.dll
