@@ -16,7 +16,7 @@
         await file.WriteLineAsync("    }");
 
         // makes your computer explode
-        // for (int i = Int32.MinValue + 1; i <= Int32.MinValue; i++)
+        // for (int i = Int32.MinValue + 1; i <= Int32.MaxValue; i++)
         // {
         //     await file.WriteLineAsync("    else if (x == " + i + ")");
         //     await file.WriteLineAsync("    {");
